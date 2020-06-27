@@ -49,7 +49,7 @@ This is a simple spam detection application developed using sklearn. The trained
 ## To Do
 1. More Interactive and stylish
 2. Multi - text prediction at same time
-
+3. Upload csv and make prediction on csv and download that file
 
 
 
