@@ -65,6 +65,23 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://blogeduonix-2f3a.kxcdn.com/wp-content/uploads/2018/12/Linear-Discriminant-Analysis.jpg" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
+
+
+
+
+## Team
+[![Nandan Pandey](https://qph.fs.quoracdn.net/main-thumb-189737418-200-jmwzsixdznlgemnejuecomukeluqkgzd.jpeg)](https://pandeynandancse.github.io) |
+-|
+[Nandan Pandey](https://pandeynandancse.github.io) |)
+
+
+
+
 in procfile :
 app:app means app.py file : app variable of flask
 
