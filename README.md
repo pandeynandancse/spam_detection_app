@@ -4,8 +4,6 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   * [Run](#run)
   * [Deployement on Heroku](#deployement-on-heroku)
@@ -23,6 +21,30 @@ Link: [https://spam-detector-ml-app.herokuapp.com/](https://spam-detector-ml-app
 
 [![](https://i.imgur.com/z3LLN7V.png)](https://indian-currency-prediction.herokuapp.com/)
 
+
+
+## Overview
+This is a simple spam detection application developed using sklearn. The trained model (`model/model.h5`) takes string of message as an input and predicts the class of message as spam or not spam.
+
+
+
+## Directory Tree 
+```
+├── model
+|    ├── nlp_model.pkl
+|    ├── transform.pkl
+├── static
+|    ├── style.css
+├── templates
+|    ├── home.html
+|    ├── result.html
+├── LICENSE
+├── Procfile
+├── README.md
+├── app.py
+├── requirements.txt
+
+```
 
 
 in procfile :
