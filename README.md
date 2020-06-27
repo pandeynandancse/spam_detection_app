@@ -80,6 +80,6 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 
-## Credit
+## Credits
 Data has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset).
 Thanks to kaggle for this awesome data.
