@@ -10,7 +10,6 @@
   * [Contribution](#contribution)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
-  * [License](#license)
   * [Credits](#credits)
 
 
@@ -22,7 +21,7 @@ Link: [https://spam-detector-ml-app.herokuapp.com/](https://spam-detector-ml-app
 
 
 ## Overview
-This is a simple spam detection application developed using sklearn. The trained model (`model/model.h5`) takes string of message as an input and predicts the class of message as spam or not spam.
+This is a simple spam detection application developed using sklearn. The trained model (`model/model.h5`) takes string of message as an input and predicts the class of message as spam or not spam. It's a multiclass problem. Dataset has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
 
 
@@ -78,3 +77,9 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 [![Nandan Pandey](https://qph.fs.quoracdn.net/main-thumb-189737418-200-jmwzsixdznlgemnejuecomukeluqkgzd.jpeg)](https://pandeynandancse.github.io) |
 -|
 [Nandan Pandey](https://pandeynandancse.github.io) |)
+
+
+
+## Credit
+Data has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset).
+Thanks to kaggle for this awesome data.
