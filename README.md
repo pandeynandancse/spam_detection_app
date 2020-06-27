@@ -21,7 +21,7 @@
 ## Demo
 Link: [https://spam-detector-ml-app.herokuapp.com/](https://spam-detector-ml-app.herokuapp.com/)
 
-[![]([Imgur](https://i.imgur.com/z3LLN7V.png))](https://indian-currency-prediction.herokuapp.com/)
+[![](https://i.imgur.com/z3LLN7V.png)](https://indian-currency-prediction.herokuapp.com/)
 
 
 
