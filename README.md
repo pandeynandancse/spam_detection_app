@@ -4,12 +4,10 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
   * [Bug / Feature Request](#bug---feature-request)
+  * [Contribution](#contribution)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [License](#license)
@@ -45,6 +43,26 @@ This is a simple spam detection application developed using sklearn. The trained
 ├── requirements.txt
 
 ```
+
+
+
+## To Do
+1. More Interactive and stylish
+2. Multi - text prediction at same time
+
+
+
+
+## Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/pandeynandancse/spam_detection_app/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/pandeynandancse/spam_detection_app/issues/new). Please include sample queries and their corresponding results.
+
+
+## Contribution
+If you'd like to do some contribution, feel free to do so by opening a pull request [here](https://github.com/pandeynandancse/Indian-Paper-Currency-Prediction/pulls). Please include sample queries and their corresponding results.
+
+
 
 
 in procfile :
