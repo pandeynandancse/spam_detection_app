@@ -16,7 +16,9 @@ python -m pip install --upgrade pip
 
 ::-- Install requirements at virtual environment(In this project both are same)
 
-pip install -r requirements.txt
+if "%majorVersion%"=="3" (
+  pip install -r requirements.txt
+)
 
 ::-- Run main program at virtual environment
 python ./app.py
