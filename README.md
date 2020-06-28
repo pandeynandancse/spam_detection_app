@@ -39,6 +39,7 @@ This is a simple spam detection application developed using sklearn. The trained
 ├── LICENSE
 ├── Procfile
 ├── README.md
+├── activation.bat
 ├── app.py
 ├── requirements.txt
 
