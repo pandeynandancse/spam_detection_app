@@ -74,7 +74,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## Contribution
-If you'd like to do some contribution, feel free to do so by opening a pull request [here](https://github.com/pandeynandancse/Indian-Paper-Currency-Prediction/pulls). Please include sample queries and their corresponding results.
+If you'd like to do some contribution, feel free to do so by opening a pull request [here](https://github.com/pandeynandancse/spam_detection_app/pulls). Please include sample queries and their corresponding results.
 
 
 
