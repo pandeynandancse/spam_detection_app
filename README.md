@@ -6,7 +6,7 @@
   * [Overview](#overview)
   * [Directory Tree](#directory-tree)
   * [Installation](#installation)
-  * [RUn](#run)
+  * [Run](#run)
   * [To Do](#to-do)
   * [Bug / Feature Request](#bug---feature-request)
   * [Contribution](#contribution)
