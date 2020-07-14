@@ -115,5 +115,5 @@ If you'd like to do some contribution, feel free to do so by opening a pull requ
 
 
 ## Credits
-Data has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset).
+Data has been taken from [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset)and Kris Naik sir.
 Thanks to kaggle for this awesome data.
